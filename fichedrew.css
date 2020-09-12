@@ -1,10 +1,55 @@
-.gal-4 {border:1px solid #eee;background-color:#f2f2f2;padding:10px;}
-.gal-4 table {width:100%;border-collapse:collapse;}
-.gal4-av {padding:10px;background:#fff;height:320px;border:1px solid #eee;width:200px;}
-.gal4-av img {width:100%;}
-.gal4-mid {background:#fff;height:310px;border:1px solid #eee;padding:15px 20px;width:270px;}
-.g4-i {width:255px;border-bottom:1px solid #eee;color:#948746;font-family:'Catamaran';text-transform:uppercase;padding:10px 0px;height:14px;margin:0px 0px;font-weight:900;}
-.g4-i g {float:right;font-family:initial;text-transform:lowercase;margin-top:-3px;color:initial;font-weight:100;}
+.gal-4 {
+  border:1px solid #eee;
+  background-color:#f2f2f2;
+  padding:10px;
+}
+
+.gal-4 table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+.gal4-av {
+  padding:10px;
+  background:#fff;
+  height:320px;
+  border:1px solid #eee;
+  width:200px;
+}
+
+.gal4-av img {
+  width:100%;
+}
+
+.gal4-mid {
+  background:#fff;
+  height:310px;
+  border:1px solid #eee;
+  padding:15px 20px;
+  width:270px;
+}
+
+.g4-i {
+  width:255px;
+  border-bottom:1px solid #eee;
+  color:#948746;
+  font-family:'Catamaran';
+  text-transform:uppercase;
+  padding:10px 0px;
+  height:14px;
+  margin:0px 0px;
+  font-weight:900;
+}
+
+.g4-i g {
+  float:right;
+  font-family:initial;
+  text-transform:lowercase;
+  margin-top:-3px;
+  color:initial;
+  font-weight:100;
+}
+
 .g4-rp {margin-top:15px;height:125px;padding-right:8px;overflow:auto;}
 .gal4-right {background:#fff;height:320px;border:1px solid #eee;padding:10px;width:190px;}
 .gal4-gif {width:150px;height:150px;padding:20px;border:1px solid #eee;}
